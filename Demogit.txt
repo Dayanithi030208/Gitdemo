@@ -1,0 +1,3 @@
+My name is Dayanithi
+// staging and unstaging //
+// working directory --> (git add) --> staging area --> (git commit) --> repository //
