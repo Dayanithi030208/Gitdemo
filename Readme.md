@@ -46,7 +46,7 @@ Here's a sentence with a footnote. [^1]
 ### My Heading ID {#custom-id}
 
 term
-: definition of list
+: definition
 
 ~~Strike through.~~
 
